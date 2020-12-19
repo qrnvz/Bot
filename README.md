@@ -1,22 +1,22 @@
 # Commands
-!repeat;
+!repeat - repeats all messages from Username;
    
-!stop;
+!stop - stops the repeat command;
    
-!iq;
+!iq - ur/targets iq;
    
-!gay;
+!gay - ur/targets % of gay;
    
-!count;
+!count - mini game;
    
-!plus;
+!plus - sums up all numbers after the command;
    
-!minus;
+!minus - subtracts all numbers after the command;
    
-!divide;
+!divide - divides all numbers after the command;
    
-!multiply;
+!multiply - multiplies all numbers after the command;
    
-!weather;
+!weather - shows weather in chosen city;
    
-!quadratic;
+!quadratic - calculator of quadratic equations
