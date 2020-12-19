@@ -19,4 +19,4 @@
    
 !weather - shows weather in chosen city;
    
-!quadratic - calculator of quadratic equations
+!quadratic - calculator of quadratic equations;
