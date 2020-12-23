@@ -1,11 +1,7 @@
 # Commands
-!repeat - repeats all messages from Username;
+!repeat, !stop - repeats/stops repeating all messages from Username;
    
-!stop - stops the repeat command;
-   
-!iq - ur/targets iq;
-   
-!gay - ur/targets % of gay;
+!iq, !gay - random numbers based commands;
    
 !count - mini game;
    
