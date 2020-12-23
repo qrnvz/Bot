@@ -9,13 +9,7 @@
    
 !count - mini game;
    
-!plus - sums up all numbers after the command;
-   
-!minus - subtracts all numbers after the command;
-   
-!divide - divides all numbers after the command;
-   
-!multiply - multiplies all numbers after the command;
+!plus, !minus, !divide, !multiply - calculator commands;
    
 !weather - shows weather in chosen city;
    
