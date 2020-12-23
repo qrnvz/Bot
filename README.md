@@ -1,5 +1,9 @@
 # Commands
-!repeat, !stop - repeats/stops repeating all messages from Username;
+!repeat - repeats all messages from Username;
+   
+!repeatshuffle - repeats all messages from Username, but in a weird way;
+   
+!stop - stops repeating messages;
    
 !iq, !gay - random numbers based commands;
    
