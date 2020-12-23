@@ -20,3 +20,5 @@
 !weather - shows weather in chosen city;
    
 !quadratic - calculator of quadratic equations;
+   
+!shuffle - shuffles everything u enter after the command;
