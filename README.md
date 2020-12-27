@@ -17,4 +17,3 @@
    
 !shuffle - shuffles everything u enter after the command;
    
-!cvpaste - activates copy-pasting mode, which copy-pastes every message that have more than 20 words in it;
