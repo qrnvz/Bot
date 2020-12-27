@@ -17,3 +17,5 @@
    
 !shuffle - shuffles everything u enter after the command;
    
+also bot shuffles all messages that are longer than 250 characters;
+   
