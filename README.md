@@ -19,5 +19,5 @@
    
 !vahish - deletes all your messages (mod required);
    
-also bot shuffles all messages that are longer than 250 characters;
+also bot shuffles all messages that are longer than 250 characters, exept ASCII art;
    
