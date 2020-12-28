@@ -17,5 +17,7 @@
    
 !shuffle - shuffles everything u enter after the command;
    
+!vahish - deletes all your messages (mod required);
+   
 also bot shuffles all messages that are longer than 250 characters;
    
