@@ -19,7 +19,7 @@
    
 !vahish - deletes all your messages (mod required);
    
-!pyramid - builds pyramid from chosen emote/symbol/string, max height of the pyramid is 7, default height is 3 (mod or vip required);
+!pyramid - builds a pyramid from chosen emote/symbol/string, max height of the pyramid is 7, default height is 3 (mod or vip required);
    
 also bot shuffles all messages that are longer than 250 characters, exept ASCII art;
    
