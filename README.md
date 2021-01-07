@@ -21,7 +21,7 @@
    
 !pyramid - builds a pyramid from chosen emote/symbol/string, max height of the pyramid is 7, default height is 3 (mod or vip for bot is required);
    
-!count - calculator command, simply type "!count 2 + 2 * 2" or so and have your result immediatly;
+!count - calculator command, simply type "!count 2 + 2 * 2" or so and have your result immediately;
    
 also bot shuffles all messages that are longer than 250 characters, exept ASCII art;
    
