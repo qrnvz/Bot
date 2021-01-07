@@ -9,7 +9,7 @@
    
 !play - mathematical mini game, creates two random integers in range -10 ~ 10 and asks to sum them (you can set the range using "!play -100 100" or "!play -234 9374");
    
-!plus, !minus, !divide, !multiply - calculator commands(have to purpose at all, it was fun to make them tho :D);
+!plus, !minus, !divide, !multiply - calculator commands (have to purpose at all, it was fun to make them tho :D);
    
 !weather - shows weather in chosen city;
    
