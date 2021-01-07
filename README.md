@@ -7,7 +7,7 @@
    
 !iq, !gay - random numbers based commands;
    
-!play - mathematical mini game, creates two random integers in range -10 ~ 10 and asks to sum them (yo can set the range using "!play -100 100" or "!play -234 9374");
+!play - mathematical mini game, creates two random integers in range -10 ~ 10 and asks to sum them (you can set the range using "!play -100 100" or "!play -234 9374");
    
 !plus, !minus, !divide, !multiply - calculator commands;
    
