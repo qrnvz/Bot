@@ -25,5 +25,5 @@
    
 #quiz - "#quiz start" starts the quiz, sends new question every 5 minutes, gives 1 minute to answer, "#quiz stop" stops the quiz;
    
-#shuffler - "#shuffler on" turns on the shuffler, which shuffles all messages that are longer than 250 characters, exept ASCII art, "#shuffler off" turns it off (turned off by dafault);
+#shuffler - "#shuffler on" turns on the shuffler, which shuffles all messages that are longer than 250 characters, exept ASCII art, "#shuffler off" turns it off (turned off by default);
    
