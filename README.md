@@ -7,7 +7,7 @@
    
 #iq, #gay - random numbers based commands;
    
-#play - mathematical mini game, creates mathematical equation with two numbers in range -10 ~ 10 and asks to solve it (you can set the range using "!play -100 100" or "!play -234 9374");
+#play - mathematical mini game, creates mathematical equation with two numbers in range -10 ~ 10 and asks to solve it (you can set the range using "#play -100 100" or "#play -234 9374");
    
 #plus, #minus, #divide, #multiply - calculator commands (have to purpose at all, it was fun to make them tho :D);
    
