@@ -21,7 +21,7 @@
    
 #pyramid - builds a pyramid from chosen emote/symbol/string, max height of the pyramid is 7, default height is 3 (mod or vip for bot is required);
    
-#count - calculator command, simply type "!count 2 + 2 * 2" or so and have your result immediately;
+#count - calculator command, simply type "#count 2 + 2 * 2" or so and have your result immediately;
    
 #quiz - "#quiz start" starts the quiz, sends new question every 5 minutes, gives 1 minute to answer, "#quiz stop" stops the quiz;
    
