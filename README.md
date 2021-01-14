@@ -23,7 +23,7 @@
    
 #count - calculator command, simply type "#count 2 + 2 * 2" or so and have your result immediately;
    
-#quiz - "#quiz start" starts the quiz, sends new question every 5 minutes, gives 1 minute to answer, "#quiz stop" stops the quiz;
+#quiz - "#quiz start" starts the quiz, sends new question every 5 minutes, gives 1 minute to answer, "#quiz stop" stops the quiz ("#quiz startru для запуска викторины на русском");
    
 #shuffler - "#shuffler on" turns on the shuffler, which shuffles all messages that are longer than 250 characters, exept ASCII art, "#shuffler off" turns it off (turned off by default);
    
